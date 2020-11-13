@@ -1,0 +1,16 @@
+
+Inicializa el directorio de trabajo
+
+git init
+
+despues del comando se crea dos areas para almacenar archivos
+area de ensayo(staging area) es temporal y repositorio local
+
+Hace seguimiento a uno o varios archivos y los pasa a staging area
+git add
+
+Se hace la instantanea del archivo y se respalda completamente
+git commit 
+
+
+
