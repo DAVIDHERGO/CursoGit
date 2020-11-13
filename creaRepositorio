@@ -22,3 +22,9 @@ git log --oneline
 Restauracion de archivo, indicando el codigo de instantanea
 git reset --hard
 
+Para editar una descripcion de un commit, usamos vim
+git commit --amend
+
+Para agregar los cambios a github
+git remote add origin https://github.com/DAVIDHERGO/CursoGit.git
+
