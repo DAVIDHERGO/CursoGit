@@ -12,5 +12,13 @@ git add
 Se hace la instantanea del archivo y se respalda completamente
 git commit 
 
+Estado de todos los archivos y directorios
+git status
 
+listado de copias con codigo y descripcion de commits
+
+git log --oneline
+
+Restauracion de archivo, indicando el codigo de instantanea
+git reset --hard
 
