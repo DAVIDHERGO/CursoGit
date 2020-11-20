@@ -28,3 +28,20 @@ git commit --amend
 Para agregar los cambios a github
 git remote add origin https://github.com/DAVIDHERGO/CursoGit.git
 
+actualiza los cambios hechos en github hacia local
+git pull
+
+crea una tag para nuestro proyecto
+una tag es para diferenciar las versiones del proyecto
+
+git tag 15-09-20v1 -m "version 1 de proyecto"
+
+para subir las tags al repositorio remote
+git --push tags
+
+descargar una copia del proyecto mas reciente
+git clone 'url'
+
+ramas, son como lineas de tiempo de los cambios hechos
+
+
