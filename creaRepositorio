@@ -43,5 +43,11 @@ descargar una copia del proyecto mas reciente
 git clone 'url'
 
 ramas, son como lineas de tiempo de los cambios hechos
+independientes entre si y son utiles para no mezclar cambios hechos que puedan perjudicar al codigo
+Crea una rama en nuestro proyecto
+git branch nonmbre
+
+para cambiar a la rama creada es
+git checkout rama_nueva
 
 
